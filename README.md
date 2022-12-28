@@ -1,2 +1,3 @@
-# Julia_Password_Generator
-A small app that takes phrase with personal meaning to a user and uses it to generate a password
+# Restricted-3-Body-Gravitational-Field-Simulator
+Create a windows desktop app that generates a plot of a simulated gravitational field from a restricted three body problem. The plot will use colour gradients to visualize the magnitude of the gravitational potential of the negligible mass and the trajectory it will take.
+
