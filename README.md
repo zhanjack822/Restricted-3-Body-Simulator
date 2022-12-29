@@ -7,7 +7,7 @@ Create a windows desktop app that generates a plot of a simulated gravitational 
 ```
     Restricted 3 Body Simulator is a desktop app that simulates the gravitational potential 
     and trajectory of the negligble mass in the restricted 3 body gravity problem.
-    Copyright (C) 2022  (Jack) Kuei Hung Zhang
+    Copyright (C) 2022 (Jack) Kuei Hung Zhang
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of version 3 of the GNU Affero General Public License as published
